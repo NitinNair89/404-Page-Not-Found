@@ -63,6 +63,9 @@ p {
     .content {
         flex-direction: row;
     }
+    img {
+        margin: 0
+    }
     footer {
         position: fixed;
         bottom: 24px;
